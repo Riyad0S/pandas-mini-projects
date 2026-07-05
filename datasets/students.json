@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Ali",
+    "age": 20,
+    "subject": "Math",
+    "score": 95
+  },
+  {
+    "id": 2,
+    "name": "Sarah",
+    "age": 22,
+    "subject": "Physics",
+    "score": 88
+  },
+  {
+    "id": 3,
+    "name": "Omar",
+    "age": 19,
+    "subject": "Math",
+    "score": 72
+  },
+  {
+    "id": 4,
+    "name": "Nora",
+    "age": 21,
+    "subject": "Chemistry",
+    "score": 91
+  },
+  {
+    "id": 5,
+    "name": "Faisal",
+    "age": 23,
+    "subject": "Biology",
+    "score": 67
+  },
+  {
+    "id": 6,
+    "name": "Lina",
+    "age": 20,
+    "subject": "Physics",
+    "score": 84
+  },
+  {
+    "id": 7,
+    "name": "Hassan",
+    "age": 22,
+    "subject": "Math",
+    "score": 59
+  },
+  {
+    "id": 8,
+    "name": "Aisha",
+    "age": 21,
+    "subject": "Chemistry",
+    "score": 77
+  },
+  {
+    "id": 9,
+    "name": "Yousef",
+    "age": 24,
+    "subject": "Biology",
+    "score": 98
+  },
+  {
+    "id": 10,
+    "name": "Mona",
+    "age": 20,
+    "subject": "Physics",
+    "score": 81
+  },
+  {
+    "id": 11,
+    "name": "Khalid",
+    "age": 23,
+    "subject": "Math",
+    "score": 86
+  },
+  {
+    "id": 12,
+    "name": "Huda",
+    "age": 19,
+    "subject": "Chemistry",
+    "score": 74
+  },
+  {
+    "id": 13,
+    "name": "Salem",
+    "age": 22,
+    "subject": "Biology",
+    "score": 69
+  },
+  {
+    "id": 14,
+    "name": "Fatimah",
+    "age": 20,
+    "subject": "Physics",
+    "score": 93
+  },
+  {
+    "id": 15,
+    "name": "Ahmed",
+    "age": 21,
+    "subject": "Math",
+    "score": 100
+  },
+  {
+    "id": 16,
+    "name": "Reem",
+    "age": 22,
+    "subject": "Chemistry",
+    "score": 65
+  },
+  {
+    "id": 17,
+    "name": "Majed",
+    "age": 23,
+    "subject": "Biology",
+    "score": 82
+  },
+  {
+    "id": 18,
+    "name": "Nawal",
+    "age": 20,
+    "subject": "Physics",
+    "score": 76
+  },
+  {
+    "id": 19,
+    "name": "Saad",
+    "age": 24,
+    "subject": "Math",
+    "score": 89
+  },
+  {
+    "id": 20,
+    "name": "Rania",
+    "age": 21,
+    "subject": "Chemistry",
+    "score": 97
+  }
+]
