@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Riyad",
+    "age": 23,
+    "department": "Engineering",
+    "salary": 8000,
+    "full_time": 1
+  },
+  {
+    "id": 2,
+    "name": "Sarah",
+    "age": 32,
+    "department": "Finance",
+    "salary": 9200,
+    "full_time": 1
+  },
+  {
+    "id": 3,
+    "name": "Ahmed",
+    "age": 28,
+    "department": "Engineering",
+    "salary": 7300,
+    "full_time": 1
+  },
+  {
+    "id": 4,
+    "name": "Nora",
+    "age": 21,
+    "department": "HR",
+    "salary": 4500,
+    "full_time": 0
+  },
+  {
+    "id": 5,
+    "name": "Khalid",
+    "age": 41,
+    "department": "Management",
+    "salary": 15000,
+    "full_time": 1
+  },
+  {
+    "id": 6,
+    "name": "Lina",
+    "age": 27,
+    "department": "Marketing",
+    "salary": 6100,
+    "full_time": 1
+  },
+  {
+    "id": 7,
+    "name": "Omar",
+    "age": 35,
+    "department": "Engineering",
+    "salary": 9800,
+    "full_time": 1
+  },
+  {
+    "id": 8,
+    "name": "Mona",
+    "age": 29,
+    "department": "Finance",
+    "salary": 8100,
+    "full_time": 0
+  },
+  {
+    "id": 9,
+    "name": "Hassan",
+    "age": 24,
+    "department": "Sales",
+    "salary": 5400,
+    "full_time": 1
+  },
+  {
+    "id": 10,
+    "name": "Fatimah",
+    "age": 31,
+    "department": "Engineering",
+    "salary": 8700,
+    "full_time": 1
+  },
+  {
+    "id": 11,
+    "name": "Yousef",
+    "age": 26,
+    "department": "Support",
+    "salary": 5900,
+    "full_time": 0
+  },
+  {
+    "id": 12,
+    "name": "Aisha",
+    "age": 38,
+    "department": "HR",
+    "salary": 7600,
+    "full_time": 1
+  },
+  {
+    "id": 13,
+    "name": "Salem",
+    "age": 22,
+    "department": "Intern",
+    "salary": 3500,
+    "full_time": 0
+  },
+  {
+    "id": 14,
+    "name": "Huda",
+    "age": 30,
+    "department": "Marketing",
+    "salary": 6800,
+    "full_time": 1
+  },
+  {
+    "id": 15,
+    "name": "Faisal",
+    "age": 45,
+    "department": "Management",
+    "salary": 17000,
+    "full_time": 1
+  }
+]
