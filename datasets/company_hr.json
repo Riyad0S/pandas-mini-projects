@@ -1,0 +1,20 @@
+[
+  {"id":1,"name":"Ali","age":25,"department":"Engineering","monthly_salary":9500,"full_time":1},
+  {"id":2,"name":"Sarah","age":31,"department":"HR","monthly_salary":11000,"full_time":1},
+  {"id":3,"name":"Omar","age":29,"department":"Finance","monthly_salary":9800,"full_time":0},
+  {"id":4,"name":"Nora","age":35,"department":"Engineering","monthly_salary":14000,"full_time":1},
+  {"id":5,"name":"Faisal","age":null,"department":"Engineering","monthly_salary":12500,"full_time":1},
+  {"id":6,"name":"Lina","age":27,"department":"Marketing","monthly_salary":8700,"full_time":0},
+  {"id":7,"name":"Ahmed","age":33,"department":"Finance","monthly_salary":null,"full_time":1},
+  {"id":8,"name":"Reem","age":30,"department":"Engineering","monthly_salary":13200,"full_time":1},
+  {"id":9,"name":"Salem","age":26,"department":"Marketing","monthly_salary":8200,"full_time":0},
+  {"id":10,"name":"Huda","age":28,"department":"HR","monthly_salary":10500,"full_time":1},
+  {"id":11,"name":"Ali","age":25,"department":"Engineering","monthly_salary":9500,"full_time":1},
+  {"id":12,"name":"Majed","age":42,"department":"Finance","monthly_salary":17000,"full_time":1},
+  {"id":13,"name":"Rania","age":24,"department":"Marketing","monthly_salary":7900,"full_time":0},
+  {"id":14,"name":"Yousef","age":37,"department":"Engineering","monthly_salary":15000,"full_time":1},
+  {"id":15,"name":"Fatimah","age":32,"department":"HR","monthly_salary":11800,"full_time":1},
+  {"id":16,"name":"Khalid","age":null,"department":"Finance","monthly_salary":13600,"full_time":1},
+  {"id":17,"name":"Noor","age":29,"department":"Marketing","monthly_salary":9000,"full_time":0},
+  {"id":18,"name":"Mona","age":34,"department":"HR","monthly_salary":12200,"full_time":1}
+]
