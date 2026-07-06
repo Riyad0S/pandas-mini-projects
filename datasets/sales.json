@@ -1,0 +1,26 @@
+[
+  {"id":1,
+    "employee":"Ali",
+    "department":"Electronics",
+    "product":"Laptop",
+    "quantity":2,
+    "price":3500},
+
+  {"id":2,"employee":"Sarah","department":"Electronics","product":"Phone","quantity":5,"price":2200},
+  {"id":3,"employee":"Omar","department":"Furniture","product":"Desk","quantity":3,"price":900},
+  {"id":4,"employee":"Nora","department":"Furniture","product":"Chair","quantity":6,"price":450},
+  {"id":5,"employee":"Faisal","department":"Electronics","product":"Tablet","quantity":4,"price":1800},
+  {"id":6,"employee":"Lina","department":"Sports","product":"Football","quantity":8,"price":120},
+  {"id":7,"employee":"Hassan","department":"Sports","product":"Tennis Racket","quantity":2,"price":650},
+  {"id":8,"employee":"Aisha","department":"Electronics","product":"Monitor","quantity":3,"price":1100},
+  {"id":9,"employee":"Yousef","department":"Furniture","product":"Wardrobe","quantity":1,"price":2800},
+  {"id":10,"employee":"Mona","department":"Sports","product":"Basketball","quantity":7,"price":140},
+  {"id":11,"employee":"Ahmed","department":"Electronics","product":"Keyboard","quantity":10,"price":250},
+  {"id":12,"employee":"Huda","department":"Furniture","product":"Bookshelf","quantity":2,"price":1300},
+  {"id":13,"employee":"Salem","department":"Sports","product":"Gym Bag","quantity":5,"price":180},
+  {"id":14,"employee":"Fatimah","department":"Electronics","product":"Mouse","quantity":12,"price":120},
+  {"id":15,"employee":"Majed","department":"Furniture","product":"Sofa","quantity":1,"price":4200},
+  {"id":16,"employee":"Reem","department":"Sports","product":"Yoga Mat","quantity":6,"price":200},
+  {"id":17,"employee":"Saad","department":"Electronics","product":"Printer","quantity":2,"price":950},
+  {"id":18,"employee":"Rania","department":"Furniture","product":"Lamp","quantity":9,"price":160}
+]
