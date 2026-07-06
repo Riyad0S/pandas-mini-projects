@@ -1,0 +1,17 @@
+[
+  {"id":1,"name":"Ali","age":25,"department":"IT","salary":9000},
+  {"id":2,"name":"Sarah","age":null,"department":"HR","salary":7500},
+  {"id":3,"name":"Omar","age":31,"department":"Finance","salary":12000},
+  {"id":4,"name":"Nora","age":28,"department":null,"salary":6800},
+  {"id":5,"name":"Faisal","age":35,"department":"IT","salary":null},
+  {"id":6,"name":"Lina","age":24,"department":"HR","salary":7100},
+  {"id":7,"name":"Ahmed","age":null,"department":"Marketing","salary":6500},
+  {"id":8,"name":"Reem","age":30,"department":"IT","salary":9800},
+  {"id":9,"name":"Salem","age":29,"department":"Finance","salary":11000},
+  {"id":10,"name":"Huda","age":null,"department":null,"salary":null},
+  {"id":11,"name":"Ali","age":25,"department":"IT","salary":9000},
+  {"id":12,"name":"Majed","age":40,"department":"HR","salary":15000},
+  {"id":13,"name":"Rania","age":27,"department":"Marketing","salary":7200},
+  {"id":14,"name":"Yousef","age":33,"department":"IT","salary":10500},
+  {"id":15,"name":"Fatimah","age":26,"department":"Finance","salary":11500}
+]
