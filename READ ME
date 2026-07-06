@@ -1,0 +1,53 @@
+# Pandas Mini Projects
+
+A collection of beginner data analysis projects built while learning **Pandas**.
+
+## Skills Practiced
+
+* Reading CSV and JSON files
+* Inspecting data frames
+* Selecting rows and columns
+* Filtering data
+* Sorting values
+* Handling missing values
+* Creating new columns
+* Grouping data with
+* Aggregating data (`sum`, `mean`, `count`, `max`, `min`)
+* Basic data analysis
+
+## Projects
+
+### 1. Student Grades Analysis
+
+* Reading CSV files
+* Calculating averages
+* Finding highest and lowest scores
+* Filtering students
+* Basic statistics
+
+### 2. Employee Data Analysis
+
+* Reading JSON files
+* Exploring employee records
+* Filtering by department
+* Working with boolean columns
+* Salary and age analysis
+
+### 3. Sales Analysis
+
+* Grouping sales by category
+* Calculating total products sold
+* Total revenue analysis
+* Average sales per category
+* Sorting grouped results
+
+## Technologies Used
+
+* Python 3
+* Pandas
+
+## What I Learned
+
+Through these projects I practiced using Pandas to manipulate and analyze structured data. I became comfortable working with data frames, filtering data sets, grouping records, performing aggregations, and extracting meaningful insights from real world data.
+
+Now that oop, numpy, and pandas are done, next part of my plan is SQL so.. see you in a bit.
