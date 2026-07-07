@@ -1,0 +1,17 @@
+[
+    {"employee":"Ali","department":"Engineering","product":"Laptop","quantity":3,"price":4500,"hire_date":"2021-03-15"},
+    {"employee":"Sarah","department":"HR","product":"Chair","quantity":5,"price":700,"hire_date":"2022-07-20"},
+    {"employee":"Omar","department":"Engineering","product":"Monitor","quantity":4,"price":1200,"hire_date":"2020-11-10"},
+    {"employee":"Lina","department":"Sales","product":"Phone","quantity":6,"price":3200,"hire_date":"2023-01-05"},
+    {"employee":"Ahmed","department":"Engineering","product":"Keyboard","quantity":8,"price":250,"hire_date":"2021-09-12"},
+    {"employee":"Reem","department":"HR","product":"Desk","quantity":2,"price":1500,"hire_date":"2022-04-18"},
+    {"employee":"Faisal","department":"Sales","product":"Tablet","quantity":3,"price":2100,"hire_date":"2021-12-09"},
+    {"employee":"Nora","department":"Engineering","product":"Mouse","quantity":10,"price":150,"hire_date":"2023-06-14"},
+    {"employee":"Huda","department":"Sales","product":"Headphones","quantity":7,"price":500,"hire_date":"2020-08-30"},
+    {"employee":"Yousef","department":"HR","product":"Printer","quantity":1,"price":1800,"hire_date":"2021-05-25"},
+    {"employee":"Majed","department":"Engineering","product":"Laptop","quantity":2,"price":4500,"hire_date":"2022-02-11"},
+    {"employee":"Mona","department":"Sales","product":"Phone","quantity":4,"price":3200,"hire_date":"2023-09-01"},
+    {"employee":"Khalid","department":"Engineering","product":"Server","quantity":1,"price":12000,"hire_date":"2020-01-20"},
+    {"employee":"Abeer","department":"HR","product":"Desk","quantity":3,"price":1500,"hire_date":"2021-10-10"},
+    {"employee":"Saad","department":"Sales","product":"Laptop","quantity":2,"price":4500,"hire_date":"2022-11-15"}
+]
