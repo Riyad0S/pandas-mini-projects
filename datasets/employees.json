@@ -1,0 +1,14 @@
+[
+    {"id": 1, "name": "Ali", "department": "Engineering"},
+    {"id": 2, "name": "Sarah", "department": "HR"},
+    {"id": 3, "name": "Omar", "department": "Finance"},
+    {"id": 4, "name": "Nora", "department": "Engineering"},
+    {"id": 5, "name": "Faisal", "department": "Marketing"},
+    {"id": 6, "name": "Lina", "department": "Finance"},
+    {"id": 7, "name": "Ahmed", "department": "Engineering"},
+    {"id": 8, "name": "Reem", "department": "HR"},
+    {"id": 9, "name": "Mona", "department": "Marketing"},
+    {"id": 10, "name": "Yousef", "department": "Engineering"},
+    {"id": 11, "name": "Huda", "department": "Finance"},
+    {"id": 12, "name": "Khalid", "department": "HR"}
+]
